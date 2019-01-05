@@ -1,6 +1,12 @@
 # Setup
 This notebook consists of basic usage of numpy and matplotlib.
 
+# Installation
+*  Clone the repository
+*  cd to the setup directory
+*  Give executable permission by using the command `chmod +x installation.sh`
+*  Then execute it by using the command `./installation.sh`
+
 # Usage
 *  Download the Exercise-I.ipynb
 *  Run the jupyter notebook
