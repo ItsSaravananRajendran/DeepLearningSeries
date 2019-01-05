@@ -1,5 +1,6 @@
-# Setup
+# [Setup](https://thetechcache.science/dl-series-setup/)
 This notebook consists of basic usage of numpy and matplotlib.
+
 
 # Installation
 *  Clone the repository
