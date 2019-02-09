@@ -4,8 +4,7 @@ This notebook has the introduction, theory and visualization of a perceptron. It
 # Installation
 *  See the [Setup](https://github.com/thunderbo1t/DeepLearningSeries/tree/master/Setup) for general setup.
 *  Install plotly for this tutorial.
-   `sudo pip install plotly`
-*  
+   `sudo pip install plotly`  
 
 
 # Usage
